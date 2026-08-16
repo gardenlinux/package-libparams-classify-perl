@@ -11,3 +11,4 @@ jobs:
       build_dep: |
         gardenlinux/package-perl 5.42.2-3gl0+bp1877
         gardenlinux/package-libb-hooks-op-check-perl 0.22-3gl0+bp1877
+        gardenlinux/package-libdevel-callchecker-perl 0.009-2gl0+bp1877
